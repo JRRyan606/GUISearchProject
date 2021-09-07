@@ -1,7 +1,7 @@
 # GUISearchProject
 This is a GUI project made with python and tkinter that uses the pywhatkit module to search queries on Google and search videos on Youtube.
 
-.exe file is provided in the ```project``` folder
+.exe file is provided in the ```executable file``` folder
 
 ![image](https://user-images.githubusercontent.com/82995939/132275985-488fadb6-3f4d-486a-aed8-d14d54fa5d58.png)
 
